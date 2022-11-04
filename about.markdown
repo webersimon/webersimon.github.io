@@ -5,3 +5,7 @@ permalink: /about/
 ---
 
 Try some text
+### New heading
+Some more text
+
+
