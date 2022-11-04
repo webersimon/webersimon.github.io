@@ -12,10 +12,10 @@ Lecturer, University of York
 
 Full CV available [HERE](https://www.dropbox.com/s/qjvrt75flyml7pd/CV_WeberSimon.pdf?dl=0).
 
-Address: 
-Department of Economics and Related Studies
-University of York
-Heslington, York, YO10 5DD, UK.
+Address:\
+Department of Economics and Related Studies\
+University of York\
+Heslington, York, YO10 5DD, UK.\
 Email: simon.weber@york.ac.uk
 
 ### Research interests
@@ -27,7 +27,7 @@ Email: simon.weber@york.ac.uk
 
 <p align="middle" >
 <img src="/images/20180211-DSC07100.jpg" width="250">
-<img height="300" hspace="50">
+<img height="100" hspace="50">
 <img src="/images/universityofyork.png" width="250">
 </p>
 
