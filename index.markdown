@@ -10,7 +10,7 @@ order: 1
 ### A heading
 Some text
 
-![profile](/_images/20180211-DSC07100.jpg "title")
+![profile](/images/20180211-DSC07100.jpg "title")
 
 
 
