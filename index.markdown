@@ -10,7 +10,7 @@ order: 1
 ### A heading
 Some text
 
-![profile](/images/20180211-DSC07100.jpg "title")
+<img src="https://github.com/webersimon/webersimon.github.io/blob/gh-pages/images/20180211-DSC07100.jpg" width=50% height=50%>
 
 
 
