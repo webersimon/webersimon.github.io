@@ -1,12 +1,9 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: About
+permalink: /about/
 order: 2
 ---
 
-Try some text
-### New heading
-Some more text
 
 
