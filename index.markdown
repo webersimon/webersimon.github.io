@@ -10,16 +10,17 @@ order: 1
 ### Current position
 Lecturer, University of York
 
-
-### Research interests
-- Matching Theory (C78)
-- Family Economics (D1)
-- Labor and Demographic Economics (J)
 Full CV available [HERE](https://www.dropbox.com/s/qjvrt75flyml7pd/CV_WeberSimon.pdf?dl=0) .
 
 Address: Department of Economics and Related Studies, University of York, Heslington, York, YO10 5DD, UK.
 
 Email: simon.weber@york.ac.uk
+
+### Research interests
+- Matching Theory (C78)
+- Family Economics (D1)
+- Labor and Demographic Economics (J)
+
 
 <!---
 ![profile](/images/20180211-DSC07100.jpg "title")
