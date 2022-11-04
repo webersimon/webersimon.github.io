@@ -15,7 +15,7 @@ Lecturer, University of York
 - Matching Theory (C78)
 - Family Economics (D1)
 - Labor and Demographic Economics (J)
-Full CV available *[HERE*](www.dropbox.com%2Fs%2Fqjvrt75flyml7pd%2FCV_WeberSimon.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AOvVaw3aMRnOfxrvwA8pPGtwrQc9) .
+Full CV available [HERE](https://www.dropbox.com/s/qjvrt75flyml7pd/CV_WeberSimon.pdf?dl=0) .
 
 Address: Department of Economics and Related Studies, University of York, Heslington, York, YO10 5DD, UK.
 
