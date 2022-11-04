@@ -23,6 +23,7 @@ Email: simon.weber@york.ac.uk
 
 <p align="middle" >
 <img src="/images/20180211-DSC07100.jpg" width="300">
+<img height="300" hspace="100">
 <img src="/images/universityofyork.png" width="300">
 </p>
 
