@@ -21,12 +21,12 @@ Email: simon.weber@york.ac.uk
 - Family Economics (D1)
 - Labor and Demographic Economics (J)
 
-<img src="/images/20180211-DSC07100.jpg" width="200" height="100">
-
 <p align="middle" >
-<img src="/images/20180211-DSC07100.jpg" width="200" height="100">
-<img src="/images/universityofyork.png" width="200" height="100">
+<img src="/images/20180211-DSC07100.jpg" width="300">
+<img src="/images/universityofyork.png" width="300">
 </p>
+
+
 
 <!---
 ![profile](/images/20180211-DSC07100.jpg "title")
