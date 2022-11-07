@@ -7,7 +7,7 @@ order: 2
 
 
 # Published and forthcoming papers.
-Dupuy, A. and S. Weber (2022): "Marriage market counterfactuals using matching models," Economica, 89: 29-43. (Link to paper)
+Dupuy, A. and S. Weber (2022): "Marriage market counterfactuals using matching models," Economica, 89: 29-43. ([Link to paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecca.12386))
 
 Ciscato, E. and S. Weber (2020): "The Role of Evolving Marital Preferences in Growing Income Inequality,"  Journal of Population Economics, 33, pp. 307-347. (Link to the paper)
 
