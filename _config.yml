@@ -35,7 +35,7 @@ header_pages:
   - index.markdown
   - research.markdown
   - cv.markdown
-
+  - teaching.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
