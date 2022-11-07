@@ -25,18 +25,18 @@ Breteau, V. and S. Weber (2013): "Reconsidering the Choice Between Gasoline- and
 
 
 # Work in progress.
-Weber, S (2022): "Collective models and the marriage market," under review. (Link to paper)
+Weber, S (2022): "Collective models and the marriage market," under review. ([Link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2956114))
 
 Cherchye, L., De Rock, B., Dupuy, A., Vermeulen, F. and S. Weber (2022). "How transferable is utility within marriage?", working paper.
 
-Chen, L., Choo, E., Galichon, A. and S. Weber (2022): "Matching Function Equilibria with Partial Assignment: Existence, Uniqueness and Estimation," under review at Quantitative Economics. (Link to paper)
+Chen, L., Choo, E., Galichon, A. and S. Weber (2022): "Matching Function Equilibria with Partial Assignment: Existence, Uniqueness and Estimation," working paper. ([Link to paper](https://arxiv.org/abs/2102.02071))
 
 Chen, L., Choo, E., Galichon, A. and S. Weber (2022): "Matching Function Equilibria with Full Assignment: Existence, Uniqueness and Estimation," working paper. (Link to paper)
 
 Ciscato, E. and Fox, J. and Galichon, A., and Dupuy, A. and S. Weber (2021): "The economics of blended families," working paper.
 
 Other work
-Weber, S. (2016): "Integrating Collective Models and the Marriage Market: An Illustration," working paper. (Link to the paper)
+Weber, S. (2016): "Integrating Collective Models and the Marriage Market: An Illustration," working paper. ([Link to the paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2804701))
 
 Galichon, A. and S. Weber (2015): "TraME: Transportation Methods for Econometrics" (available at http://www.trame-project.com/trame-rcpp.html).
 
