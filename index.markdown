@@ -10,7 +10,7 @@ order: 1
 ### Current position
 Lecturer, University of York
 
-Full CV available [HERE](https://www.dropbox.com/s/qjvrt75flyml7pd/CV_WeberSimon.pdf?dl=0).
+Full CV available [HERE](https://github.com/webersimon/webersimon.github.io/blob/86c92ab81372079e0f09c043a6dbaf4c3616a381/resume/CV_WeberSimon.pdf).
 
 Address:\
 Department of Economics and Related Studies\
