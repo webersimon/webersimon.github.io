@@ -14,7 +14,7 @@ University of York\
 Heslington, York, YO10 5DD, UK.\
 Email: simon.weber@york.ac.uk
 
-Full CV available [HERE](https://github.com/webersimon/webersimon.github.io/blob/86c92ab81372079e0f09c043a6dbaf4c3616a381/resume/CV_WeberSimon.pdf).
+Full CV available [HERE](https://github.com/webersimon/webersimon.github.io/blob/gh-pages/resume/CV_WeberSimon.pdf).
 
 ### Research interests
 - Matching Theory (C78)
